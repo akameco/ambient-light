@@ -1,0 +1,27 @@
+{
+  "name": "ambient-light",
+  "version": "0.0.1",
+  "description": "Get ambient light in OSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "keywords": [
+    "lux",
+    "lx",
+    "osx",
+    "ambient",
+    "ambient-light",
+    "light"
+  ],
+  "author": "akameco <akameco.t@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "xo": "^0.13.0"
+  },
+  "dependencies": {
+    "execa": "^0.2.2",
+    "pify": "^2.3.0"
+  }
+}
