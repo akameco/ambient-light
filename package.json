@@ -17,11 +17,11 @@
   "author": "akameco <akameco.t@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.13.0",
-    "xo": "^0.13.0"
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
   },
   "dependencies": {
-    "execa": "^0.2.2",
+    "execa": "^0.4.0",
     "pify": "^2.3.0"
   }
 }
