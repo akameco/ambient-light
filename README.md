@@ -1,5 +1,7 @@
 # ambient-light
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/ambient-light.svg)](https://greenkeeper.io/)
+
 > Get ambient light in OSX
 
 ## Installation
